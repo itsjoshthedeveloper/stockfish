@@ -2,6 +2,11 @@
 
 ## Compiling Stockfish
 
+```
+cd Stockfish/src
+make -j build ARCH=x86-64-modern
+```
+
 ## How to run the benchmark
 
 Usage: 
